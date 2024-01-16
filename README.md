@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" width="100" />
 </p>
 <p align="center">
     <h1 align="center">STEAM MARKET SENTIMENT PREDICTION</h1>
@@ -28,6 +28,9 @@
 ---
 
 ##  Overview
+
+*This project was completed for the final project for University of Michigan SI 618 in collaboration with [Mohammad Awad](https://github.com/mohammaw)*
+
 ### Motivation
 Our project aims to analyze data of games listed in the Steam Marketplace in order to develop a
 model which can predict the sentiment of customers, based on specific variables of a game.
